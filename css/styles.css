@@ -119,8 +119,13 @@ header{
 
 .gus-facts-container{
     width: 1170px;
+    
+}
+
+.gus-facts-list{
     display: flex;
     justify-content: space-between;
+
 }
 
 .gus-facts-item{
